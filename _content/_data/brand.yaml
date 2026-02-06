@@ -37,7 +37,7 @@ colors:
   - name: rose-bg
     value: '#ff0080'
   - name: mauve-reussite-professionnelle
-    value: '#66007b'
+    value: '#530064'
 palettes:
   - name: palette-de-cara
     text: mauve-reussite-professionnelle
