@@ -37,7 +37,7 @@ colors:
   - name: rose-bg
     value: '#ff0080'
   - name: mauve-reussite-professionnelle
-    value: '#ac00d0'
+    value: '#9900b9'
 styleContexts:
   - name: main
     value: ctx
