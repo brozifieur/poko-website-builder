@@ -15,4 +15,4 @@ Tié super stylé
 - Première étape : Manger beaucoup de soupe
 - [chill](https://nemobroze.com)
 
-{% image src="/_images/v2.webp", alt="virus girafe" %}
+{% image src="/_images/v2.webp", alt="virus girafe", width="300" %}
