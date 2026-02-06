@@ -9,6 +9,7 @@ fontStacksContexts:
   - name: main
     body:
       native: system-ui
+      custom: nemo font
     heading:
       native: system-ui
     code:
