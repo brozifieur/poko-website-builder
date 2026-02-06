@@ -33,11 +33,11 @@ typeScales:
     maxTypeScale: 1.25
 colors:
   - name: violet-swag
-    value: '#ffaeff'
+    value: '#f9b5f9'
   - name: rose-bg
     value: '#ff0080'
   - name: mauve-reussite-professionnelle
-    value: '#9900b9'
+    value: '#82009d'
 palettes:
   - name: palette-de-cara
     text: mauve-reussite-professionnelle
