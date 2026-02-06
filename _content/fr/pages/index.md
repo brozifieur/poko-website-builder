@@ -8,4 +8,9 @@ name: index
 ---
 # **Bonjour Némo** 
 
-t'es super stylé
+Tié super stylé
+
+## Tuto pour être cool comme moi : 
+
+- Première étape : Manger beaucoup de soupe
+- chill
