@@ -38,6 +38,27 @@ colors:
     value: '#ff0080'
   - name: mauve-reussite-professionnelle
     value: '#9900b9'
+palettes:
+  - name: palette-de-cara
+    text: mauve-reussite-professionnelle
+    bg: violet-swag
+    accent: ''
+    border: ''
+    text-decoration: rose-bg
+    text--marker: rose-bg
+    advancedDefaults: null
+    selection: null
+    strong: null
+    em: null
+    mark: null
+    b: null
+    heading: null
+    a: null
+    button: null
+    code: null
+    svg: null
+    scrollbar: null
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
