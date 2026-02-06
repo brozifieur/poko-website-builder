@@ -13,6 +13,6 @@ Tié super stylé
 ## Tuto pour être cool comme moi : 
 
 - Première étape : Manger beaucoup de soupe
-- [chill](nemobroze.com)
+- [chill](https://nemobroze.com)
 
 {% image src="/_images/v2.webp", alt="virus girafe" %}
