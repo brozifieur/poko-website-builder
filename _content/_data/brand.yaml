@@ -33,7 +33,7 @@ typeScales:
     maxTypeScale: 1.25
 colors:
   - name: violet-swag
-    value: '#f9b5f9'
+    value: '#f5d8f5'
   - name: rose-bg
     value: '#ff0080'
   - name: mauve-reussite-professionnelle
