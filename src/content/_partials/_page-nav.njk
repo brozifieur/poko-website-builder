@@ -1,5 +1,5 @@
 {% set navPages = collections.all | filterCollection([{ by: 'lang', value:
-lang }, { by: 'parent', value: undefined }]) | eleventyNavigation %}
+lang }, { by: 'parent', value: '' }]) | eleventyNavigation %}
 
 {% if navPages | length %}
 

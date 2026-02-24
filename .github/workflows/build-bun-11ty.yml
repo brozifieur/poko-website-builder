@@ -2,7 +2,7 @@
 #
 # To get started with 11ty see: https://www.11ty.dev/docs/
 #
-name: Deploy 11ty site to Pages
+name: Deploy site to Github Pages
 
 env:
   BUILD_PATH: "." # default value when not using subfolders
@@ -44,6 +44,7 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
